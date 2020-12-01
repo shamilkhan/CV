@@ -2,5 +2,5 @@
 ## Describe my dev experience
 
 ## State Managers 
-### Redux 
-### Mobx
+- ### Redux 
+- ### Mobx
