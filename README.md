@@ -1,6 +1,6 @@
 # CV
-## Describe my dev experience
+## Describe my dev experience/thoughts
 
-## State Managers 
-- ### Redux 
+## 😼 State Managers 
+- ### Redux  
 - ### Mobx
