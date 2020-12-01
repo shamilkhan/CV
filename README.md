@@ -3,3 +3,8 @@
 ## 😼 State Managers 
 - ### Redux  
 - ### Mobx
+
+## Testing 
+- ### jest
+- ### @testing-library
+- ### e2e 
