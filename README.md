@@ -1,5 +1,4 @@
-# CV
-## Describe my dev experience/thoughts
+# 👻 🤳 Describe my dev experience/thoughts
 
 ## 😼 State Managers 
 - ### Redux  
